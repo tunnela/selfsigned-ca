@@ -34,7 +34,7 @@
     "rollup-plugin-notify": "^1.0.3"
   },
   "dependencies": {
-    "cert-store": "^1.0.0",
+    "cert-store": "MikeKovarik/cert-store#b03448fbb3c03b37c661c8c0cc3c21b9bac95de7",
     "node-forge": "^0.7.6"
   }
 }
